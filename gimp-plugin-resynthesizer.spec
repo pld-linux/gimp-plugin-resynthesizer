@@ -25,9 +25,9 @@ a surprising number of uses:
 - Creating themed images.
 
 %description -l pl
-Resynthesizer jest wtyczk± Gimp-a s³u¿±c± do syntezy tekstur.
+Resynthesizer jest wtyczk± Gimpa s³u¿±c± do syntezy tekstur.
 Dysponuj±c próbk± tekstury mo¿e stworzyæ jej wiêcej. Ma to
-zaskakuj±c± ilo¶æ zastosowañ:
+zaskakuj±c± liczbê zastosowañ:
 
 - Tworzenie wiêcej tekstury (równie¿ kafelkowalnych tekstur),
 - Usuwanie obiektów z obrazów (wspania³e do retuszowania zdjêæ),
