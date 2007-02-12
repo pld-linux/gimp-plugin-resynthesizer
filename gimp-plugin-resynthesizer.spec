@@ -1,5 +1,5 @@
 Summary:	Resynthesizer plugin
-Summary(pl):	Wtyczka resynthesizer
+Summary(pl.UTF-8):   Wtyczka resynthesizer
 Name:		gimp-plugin-resynthesizer
 Version:	0.14
 Release:	1
@@ -24,14 +24,14 @@ a surprising number of uses:
 - Removing objects from images (great for touching up photos),
 - Creating themed images.
 
-%description -l pl
-Resynthesizer jest wtyczk± Gimpa s³u¿±c± do syntezy tekstur.
-Dysponuj±c próbk± tekstury mo¿e stworzyæ jej wiêcej. Ma to
-zaskakuj±c± liczbê zastosowañ:
+%description -l pl.UTF-8
+Resynthesizer jest wtyczkÄ… Gimpa sÅ‚uÅ¼Ä…cÄ… do syntezy tekstur.
+DysponujÄ…c prÃ³bkÄ… tekstury moÅ¼e stworzyÄ‡ jej wiÄ™cej. Ma to
+zaskakujÄ…cÄ… liczbÄ™ zastosowaÅ„:
 
-- Tworzenie wiêcej tekstury (równie¿ kafelkowalnych tekstur),
-- Usuwanie obiektów z obrazów (wspania³e do retuszowania zdjêæ),
-- Tworzenie obrazów z motywami.
+- Tworzenie wiÄ™cej tekstury (rÃ³wnieÅ¼ kafelkowalnych tekstur),
+- Usuwanie obiektÃ³w z obrazÃ³w (wspaniaÅ‚e do retuszowania zdjÄ™Ä‡),
+- Tworzenie obrazÃ³w z motywami.
 
 %prep
 %setup -q -n resynthesizer-%{version}
