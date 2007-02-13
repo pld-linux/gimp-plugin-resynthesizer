@@ -1,5 +1,5 @@
 Summary:	Resynthesizer plugin
-Summary(pl.UTF-8):   Wtyczka resynthesizer
+Summary(pl.UTF-8):	Wtyczka resynthesizer
 Name:		gimp-plugin-resynthesizer
 Version:	0.14
 Release:	1
